@@ -238,7 +238,7 @@ test-cases/
 ├── phase1-webhook-csv-test-cases.md
 ├── phase2-signup-checkout-test-cases.md
 └── phase3-list-organizer-test-cases.md
-
+|
 bug-reports/
 ├── phase1-webhook-csv-bugs.md
 ├── phase2-signup-checkout-bugs.md
