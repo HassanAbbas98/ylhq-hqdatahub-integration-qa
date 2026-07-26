@@ -195,7 +195,7 @@ Mapping is stored in WordPress user meta on the YLHQ side. When the webhook fire
 | TC-39 | Property data displays correctly in List Organizer after import | ❌ Fail — BUG-18 |
 | TC-40 | Cancelling popup does not add list to List Organizer | ⏳ Pending |
 
-> Full test case details in [`test-cases/realflow-csv-webhook-test-cases.md`](test-cases/realflow-csv-webhook-test-cases.md)
+> Full test case details in [`test-cases/`](test-cases/)
 
 ---
 
@@ -230,12 +230,18 @@ Mapping is stored in WordPress user meta on the YLHQ side. When the webhook fire
 ## Repository Structure
 
 ```
-/
-├── README.md                                      ← Project overview, architecture, results summary
+ylhq-hqdatahub-integration-qa/
+│
+├── README.md
+│
 ├── test-cases/
-│   └── realflow-csv-webhook-test-cases.md         ← 40 test cases across 8 modules
+│   └── realflow-csv-webhook-test-cases.md
+│
 ├── bug-reports/
-│   └── realflow-csv-webhook-bugs.md               ← 18 bug reports with full detail
+│   └── realflow-csv-webhook-bugs.md
+│
+└── assets/
+    └── webhook-architecture-diagram.png
 ```
 
 ---
