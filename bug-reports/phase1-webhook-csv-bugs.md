@@ -49,7 +49,7 @@
 | **Severity** | Critical |
 | **Priority** | Critical |
 | **Reported By** | PM (via Slack) |
-| **Fixed By** | Dev (Ivana) |
+| **Fixed By** | Dev |
 | **Status** | ✅ Closed |
 | **Area** | Place Order — Upload Tool Field Mapping |
 
@@ -85,7 +85,7 @@ All YLHQ upload fields present — user can map columns and place order
 | **Severity** | High |
 | **Priority** | High |
 | **Reported By** | Dev (during BUG-01 investigation) |
-| **Fixed By** | Dev (Ivana) |
+| **Fixed By** | Dev |
 | **Status** | ✅ Closed |
 | **Area** | CSV Parsing — Webhook Backend |
 
@@ -117,7 +117,7 @@ CSV parsing updated to correctly handle RFC 4180 quoted multiline fields
 | **Severity** | High |
 | **Priority** | High |
 | **Reported By** | Dev (during BUG-01 investigation) |
-| **Fixed By** | Dev (Ivana) |
+| **Fixed By** | Dev |
 | **Status** | ✅ Closed |
 | **Area** | Place Order — Validation |
 
@@ -263,7 +263,7 @@ This is intended behavior for standard YLHQ upload tool orders. For the HQ DataH
 | **Severity** | High |
 | **Priority** | High |
 | **Reported By** | Hassan (QA Engineer) |
-| **Fixed By** | Dev (Ivana) |
+| **Fixed By** | Dev |
 | **Status** | ✅ Closed |
 | **Area** | Agent Details — Role-Based Access Control |
 
