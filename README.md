@@ -234,14 +234,15 @@ ylhq-hqdatahub-integration-qa/
 │
 ├── README.md
 │
-├── test-cases/
-│   └── realflow-csv-webhook-test-cases.md
-│
-├── bug-reports/
-│   └── realflow-csv-webhook-bugs.md
-│
-└── assets/
-    └── webhook-architecture-diagram.png
+test-cases/
+├── phase1-webhook-csv-test-cases.md
+├── phase2-signup-checkout-test-cases.md
+└── phase3-list-organizer-test-cases.md
+
+bug-reports/
+├── phase1-webhook-csv-bugs.md
+├── phase2-signup-checkout-bugs.md
+└── phase3-list-organizer-bugs.md
 ```
 
 ---
