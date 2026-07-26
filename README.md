@@ -2,7 +2,6 @@
 
 > **Role:** QA Engineer — Darkthorn Lab (Client: Yellow Letter HQ)
 > **Project Type:** API Integration Testing + End-to-End Functional Testing
-> **Status:** 🟡 Testing In Progress
 
 ---
 
